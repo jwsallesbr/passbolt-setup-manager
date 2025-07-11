@@ -137,28 +137,20 @@ ___________________________________________________
   Go to Passbolt settings and follow the instructions to enable 2FA for all users.  
   [How to enable 2FA (TOTP) in Passbolt](https://www.passbolt.com/docs/admin/authentication/mfa/totp/)
 
-- **🔑📲 Download the official Passbolt app:**  
-  Access your passwords securely on your mobile device as well:
-
-  - [Download for Android](https://play.google.com/store/apps/details?id=com.passbolt.mobile.android)
-  - [Download for iOS](https://apps.apple.com/nz/app/passbolt-password-manager/id1569629432)
-
 ---
 
 <div align="center">
 
-## 💰 Support & Donations
+## 🔑📲 Download the official Passbolt app:
 
-If you found this project useful and would like to support its development, consider making a donation!
+Scan the QR code or click the link below to download the official Passbolt app for your device:
 
-| **PayPal 🅿️💳** | **Pix 🇧🇷♻️** | **Bitcoin ₿🪙** |
-|:---------------:|:-------------:|:---------------:|
-| <img src="docs/qr-paypal.png" width="120"/> | <img src="docs/qr-pix.png" width="120"/> | <img src="docs/qr-bitcoin.png" width="120"/> |
-| Scan to donate  | Scan to donate | Scan to donate  |
+| <img src="docs/qr-play-store.png" width="120"/> | <img src="docs/qr-app-store.png" width="120"/> |
+|:-----------------------------------------------:|:---------------------------------------------:|
+| [Download for Android](https://play.google.com/store/apps/details?id=com.passbolt.mobile.android)  | [Download for iOS](https://apps.apple.com/app/id1569629432) |
 
-🤝 Thank you for your support!
+🔒 Securely access your passwords on your mobile device.
 
 </div>
 
 ---
-
